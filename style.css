@@ -1,0 +1,30 @@
+.imperio-bkc{
+    background-color: hsl(0, 54%, 69%);
+}
+
+.rebeldes-bkc{
+    background-color: hsl(226, 100%, 71%);
+}
+
+#darth-vader{
+    font-size: 30px;
+}
+
+#luke-s{
+    font-style: italic;
+}
+
+.soldados{
+    border: 3px dashed hsl(84, 70%, 70%);
+    padding-left: 3px;
+    padding-right: 3px;
+    letter-spacing: 5px;
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.naves{
+    text-transform: uppercase;
+}
